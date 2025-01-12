@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "A high-performance laptop for all your needs.",
+      "price": 999.99,
+      "image": "https://smartview.com.bd/images/products/1734789066.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "description": "A cutting-edge smartphone with advanced features.",
+      "price": 599.99,
+      "image": "https://smartview.com.bd/images/products/1730697666.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "description": "Noise-canceling headphones for immersive sound.",
+      "price": 199.99,
+      "image": "https://www.thesonyshop.ca/cdn/shop/products/WHCH520B_1_1360x1360.jpg?v=1676989705"
+    }
+  ]
+  
